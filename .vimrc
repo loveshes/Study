@@ -19,5 +19,4 @@ Plug 'mhinz/vim-startify'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'yggdroot/indentline'
-Plug 'w0ng/vim-hybrid'
 call plug#end()
