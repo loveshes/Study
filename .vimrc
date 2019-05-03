@@ -3,6 +3,13 @@ set nu
 
 " 设置缩进为4个空格
 set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+" 不要用空格代替制表符
+set noexpandtab
+" 在行和段开始处使用制表符
+set smarttab
+
 
 " 语法高亮
 syntax enable
