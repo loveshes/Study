@@ -1,6 +1,9 @@
 " 显示行号
 set nu
 
+" 设置缩进为4个空格
+set tabstop=4
+
 " 语法高亮
 syntax enable
 syntax on
